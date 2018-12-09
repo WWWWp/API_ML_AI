@@ -9,6 +9,13 @@ Epic|&nbsp;
 **QA**|&nbsp;
 
 ## 目录
+- [Goals](#Goals)
+- [Background and strategic fit](#Background and strategic fit)
+- [Assumptions](#Assumptions)
+- [Requirements](#Requirements)
+- - [User Portrait](#User Portrait)
+- - [User Usage Scenarios](#User Usage Scenarios)
+- [User intercaion and design](#User intercaion and design)
 
 ## Goals
 当前智能手机的出现大大降低了人们交流的局限性，然而当人们遇到不可避免的问题时，即使是视频聊天也无法解决（不会普通话的人和不会当地方言的人遇到一起）。潮汕方言输入法以潮汕话为例子，一方面能够有效地解决最基本的交流问题，另一方面也方便让人学习普通话。
