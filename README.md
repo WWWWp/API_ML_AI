@@ -1,7 +1,7 @@
 ## 框架
 Target release|2018/12
 --|--
-Epic|&nbsp;
+**Epic**|方言输入法
 **Document status**|&nbsp;
 **Document owner**|<a href="https://www.github.com/WWWWp">王伟鸿</a>
 **Designer**|<a href="https://www.github.com/WWWWp">王伟鸿</a>
@@ -13,7 +13,7 @@ Epic|&nbsp;
 - [Background and strategic fit](#Background-and-strategic-fit)
 - [Assumptions](#Assumptions)
 - [Requirements](#Requirements)
-- - [User Portrait](#User Portrait)
+- - [User Portrait](#User-Portrait)
 - - [User Usage Scenarios](#User-Usage-Scenarios)
 - [User intercaion and design](#User-intercaion-and-design)
 
