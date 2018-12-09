@@ -37,3 +37,8 @@ Use of electronic equipment|
 - **输入**：语音（潮汕话，普通话），文字
 - **输出**：相对应文字、语音
 ### 产品流程图
+![image](https://github.com/WWWWp/API_ML_AI/blob/master/image/%E4%BA%A7%E5%93%81%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
+### 产品框架图
+![image](https://github.com/WWWWp/API_ML_AI/blob/master/image/%E4%BA%A7%E5%93%81%E6%A1%86%E6%9E%B6%E5%9B%BE.jpg)
+### 实例
+![image](https://github.com/WWWWp/API_ML_AI/blob/master/image/%E5%AE%9E%E4%BE%8B.jpg)
