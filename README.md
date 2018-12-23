@@ -49,3 +49,5 @@ Use of electronic equipment|
 ![image](https://github.com/WWWWp/API_ML_AI/blob/master/image/%E4%BA%A7%E5%93%81%E6%A1%86%E6%9E%B6%E5%9B%BE.jpg)
 ### 实例
 ![image](https://github.com/WWWWp/API_ML_AI/blob/master/image/%E5%AE%9E%E4%BE%8B.jpg)
+### 原型图
+[方言输入法原型图](https://wwwwp.github.io/API_type/start.html#g=1&p=index)
