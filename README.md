@@ -51,3 +51,26 @@ Use of electronic equipment|
 ![image](https://github.com/WWWWp/API_ML_AI/blob/master/image/%E5%AE%9E%E4%BE%8B.jpg)
 ### 原型图
 [方言输入法原型图](https://wwwwp.github.io/API_type/start.html#g=1&p=index)
+### 示例代码展示
+```
+# 读取文件
+def get_file_content(filePath):
+    with open(filePath, 'rb') as fp:
+        return fp.read()
+
+# 识别本地文件
+client.asr(get_file_content('16k.wav'), 'wav', 16000, {
+    'dev_pid': 1536,
+})
+```
+
+```
+result  = client.synthesis('中山大学南方学院', 'zh', 1, {
+    'vol': 5,
+})
+
+# 识别正确返回语音二进制 错误则返回dict 参照下面错误码
+if not isinstance(result, dict):
+    with open('auido3.mp3', 'wb') as f:
+        f.write(result)
+```
