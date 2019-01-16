@@ -19,7 +19,10 @@ Target release|2018/12
 - [产品流程图](#产品流程图)
 - [产品框架图](#产品框架图)
 - [实例](#实例)
-
+- [原型图](#原型图)
+- [示例代码展示](#示例代码展示)
+- [API评价](#API评价)
+- [Not doing](#Not doing)
 ## Goals
 当前智能手机的出现大大降低了人们交流的局限性，然而当人们遇到不可避免的问题时，即使是视频聊天也无法解决（不会普通话的人和不会当地方言的人遇到一起）。潮汕方言输入法以潮汕话为例子，一方面能够有效地解决最基本的交流问题，另一方面也方便让人学习普通话。
 ## Background and strategic fit
@@ -77,3 +80,12 @@ if not isinstance(result, dict):
     with open('auido3.mp3', 'wb') as f:
         f.write(result)
 ```
+### API评价
+API|评价|评价方式/来源
+---|---|---|
+百度云语音识别API | 支持的音频格式只有pcm、wav、amr，对音频的要求略高，部分音频无法识别。|[百度云语音识别Python SDK文档](http://ai.baidu.com/docs#/ASR-Online-Python-SDK/top)+自查
+百度云语音合成API | 挺好用，出错率不高|自查
+
+### Not doing
+- 以现在的技术暂时只有“粤语-普通话”互转，方言转换有待商榷；
+- 暂时未能解决音频质量差导致无法识别的问题；
