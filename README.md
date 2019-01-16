@@ -6,7 +6,7 @@ Target release|2018/12
 **Document owner**|<a href="https://www.github.com/WWWWp">王伟鸿</a>
 **Designer**|<a href="https://www.github.com/WWWWp">王伟鸿</a>
 **Developer**|&nbsp;
-**QA**|&nbsp;
+**QA**|<a href="https://www.github.com/WWWWp">王伟鸿</a>
 
 ## 目录
 - [Goals](#Goals)
